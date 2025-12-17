@@ -21,7 +21,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-0b0f14?style=flat&logo=code&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-161b22?style=flat&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Theme-Glassmorphism-0b0f14?style=flat&logo=windows&logoColor=white" />
 </p>
 
 <!-- ===================== -->
@@ -41,22 +40,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamurs07&layout=compact&theme=dark&hide_border=true&langs_count=6&bg_color=0b0f14&title_color=F75C7E&text_color=C9D1D9" height="140" />
-</p>
-
-<!-- ===================== -->
-<!-- GLASS PROJECT CARDS -->
-<!-- ===================== -->
-## 💎 Featured Projects
-<p align="center">
-  <a href="https://github.com/gowthamurs07/Smart-ECG" target="_blank">
-    <img src="https://img.shields.io/badge/Smart%20ECG-AI%20Cardiac%20Monitoring-0b0f14?style=for-the-badge&logo=heart&logoColor=F75C7E" />
-  </a>
-  <a href="https://github.com/gowthamurs07/AI-Lawyer-Bot" target="_blank">
-    <img src="https://img.shields.io/badge/AI%20Lawyer%20Bot-Legal%20Chatbot-161b22?style=for-the-badge&logo=law&logoColor=F75C7E" />
-  </a>
-  <a href="https://github.com/gowthamurs07/Global-Expense-Manager" target="_blank">
-    <img src="https://img.shields.io/badge/Global%20Expense%20Manager-AI%20Savings%20Advisor-0b0f14?style=for-the-badge&logo=money&logoColor=F75C7E" />
-  </a>
 </p>
 
 <!-- ===================== -->
