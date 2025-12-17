@@ -7,7 +7,7 @@
 
 <!-- SOFT TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3500&pause=900&color=8b949e&center=true&vCenter=true&width=520&lines=AI+%2F+ML+Enthusiast;Full+Stack+Developer;Glassmorphism+UI+Lover;Open+to+Global+Opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3500&pause=900&color=8b949e&center=true&vCenter=true&width=520&lines=AI+%2F+ML+Enthusiast;Full+Stack+Developer" />
 </p>
 
 <!-- WAVE DIVIDER -->
