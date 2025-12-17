@@ -31,18 +31,6 @@
 </p>
 
 <!-- ===================== -->
-<!-- ANIMATED GITHUB STATS -->
-<!-- ===================== -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gowthamurs07&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=F75C7E&icon_color=F75C7E&text_color=C9D1D9&bg_color=0b0f14" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gowthamurs07&theme=dark&hide_border=true&background=0b0f14&stroke=F75C7E&fire=F75C7E&currStreakNum=ffffff" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamurs07&layout=compact&theme=dark&hide_border=true&langs_count=6&bg_color=0b0f14&title_color=F75C7E&text_color=C9D1D9" height="140" />
-</p>
-
-<!-- ===================== -->
 <!-- CONTACT & SOCIALS -->
 <!-- ===================== -->
 ## 🌐 Connect With Me
