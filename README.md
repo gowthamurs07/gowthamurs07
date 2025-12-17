@@ -1,30 +1,31 @@
-<!-- GLASSMORPHISM HEADER -->
+<!-- PREMIUM GLASS HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=GOWTHAM%20URS&fontSize=40&fontColor=ffffff&color=0:0d1117,50:1f2933,100:000000&animation=fadeIn" />
-</p>
-<!-- GLASS TYPING EFFECT -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=800&color=9CA3AF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%2F+ML+Enthusiast;Glassmorphism+UI+Lover;Open+to+Global+Opportunities" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&section=header&text=GOWTHAM%20URS&fontSize=42&fontColor=ffffff&color=0:0b0f14,100:161b22&animation=fadeIn" />
 </p>
 
-<!-- GLASS DIVIDER -->
+<!-- SUBTITLE -->
 <p align="center">
-  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3500&pause=900&color=8b949e&center=true&vCenter=true&width=520&lines=AI+%2F+ML+Enthusiast;Full+Stack+Developer;Building+Modern+AI+Systems" />
 </p>
 
-<!-- GLASS PROFILE VIEWS -->
+<!-- THIN GLASS LINE -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gowthamurs07&label=Profile%20Views&color=0d1117&style=flat" />
+  <img src="https://user-images.githubusercontent.com/74038190/216656993-6c5f2a30-0f28-4d57-8eaa-7f8b58a47a95.gif" width="75%" />
 </p>
 
-<!-- GLASS INFO CARDS -->
+<!-- MINIMAL INFO PILLS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-0d1117?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-1f2933?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Theme-Glassmorphism-000000?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-0b0f14?style=flat&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-161b22?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Theme-Glassmorphism-0b0f14?style=flat&logo=windows&logoColor=white" />
 </p>
 
-<!-- GLASS FOOTER -->
+<!-- PROFILE VIEWS (SUBTLE) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=90&section=footer&text=Building%20Modern%20AI%20Systems%20With%20Style&fontSize=18&fontColor=ffffff&color=0:000000,100:1f2933&animation=twinkling" />
+  <img src="https://komarev.com/ghpvc/?username=gowthamurs07&label=Views&color=161b22&style=flat" />
+</p>
+
+<!-- FOOTER STATEMENT -->
+<p align="center">
+  <sub><b>Building Modern AI Systems with Style</b></sub>
 </p>
