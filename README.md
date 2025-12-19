@@ -31,11 +31,33 @@
 </p>
 
 <!-- ===================== -->
+<!-- GAMES -->
+<!-- ===================== -->
+## 🎮 Play Games
+<p align="center">
+  <a href="https://chromedino.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🦖%20Chrome%20Dino-Play-0b0f14?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://playsnake.org/" target="_blank">
+    <img src="https://img.shields.io/badge/🐍%20Snake%20Game-Play-161b22?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://tetris.com/play-tetris" target="_blank">
+    <img src="https://img.shields.io/badge/🧩%20Tetris-Play-0b0f14?style=for-the-badge&logo=game-controller&logoColor=white" />
+  </a>
+</p>
+
+<!-- ===================== -->
 <!-- CONTACT & SOCIALS -->
 <!-- ===================== -->
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://github.com/gowthamurs07"><img src="https://img.shields.io/badge/GitHub-0b0f14?style=for-the-badge&logo=github&logoColor=F75C7E" /></a>
-  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=F75C7E" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-0b0f14?style=for-the-badge&logo=gmail&logoColor=F75C7E" /></a>
+  <a href="https://github.com/gowthamurs07">
+    <img src="https://img.shields.io/badge/GitHub-0b0f14?style=for-the-badge&logo=github&logoColor=F75C7E" />
+  </a>
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=F75C7E" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-0b0f14?style=for-the-badge&logo=gmail&logoColor=F75C7E" />
+  </a>
 </p>
