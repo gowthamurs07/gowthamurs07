@@ -31,19 +31,12 @@
 </p>
 
 <!-- ===================== -->
-<!-- GAMES -->
+<!-- GITHUB SNAKE GAME -->
 <!-- ===================== -->
-## 🎮 Play Games
+## 🐍 Snake Game (GitHub Contributions)
+
 <p align="center">
-  <a href="https://chromedino.com/" target="_blank">
-    <img src="https://img.shields.io/badge/🦖%20Chrome%20Dino-Play-0b0f14?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://playsnake.org/" target="_blank">
-    <img src="https://img.shields.io/badge/🐍%20Snake%20Game-Play-161b22?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-  <a href="https://tetris.com/play-tetris" target="_blank">
-    <img src="https://img.shields.io/badge/🧩%20Tetris-Play-0b0f14?style=for-the-badge&logo=game-controller&logoColor=white" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 <!-- ===================== -->
