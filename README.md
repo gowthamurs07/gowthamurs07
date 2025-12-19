@@ -1,8 +1,8 @@
 <!-- ===================== -->
-<!-- GLASS HEADER -->
+<!-- TRANSPARENT GLASS HEADER -->
 <!-- ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=190&section=header&text=GOWTHAM%20URS&fontSize=42&fontColor=ffffff&color=0:0b0f14,100:161b22&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=190&section=header&text=GOWTHAM%20URS&fontSize=42&fontColor=ffffff&color=0:00000000,100:00000000&animation=fadeIn" />
 </p>
 
 <!-- SOFT TYPING ANIMATION -->
@@ -35,7 +35,13 @@
 <!-- ===================== -->
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://github.com/gowthamurs07"><img src="https://img.shields.io/badge/GitHub-0b0f14?style=for-the-badge&logo=github&logoColor=F75C7E" /></a>
-  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=F75C7E" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-0b0f14?style=for-the-badge&logo=gmail&logoColor=F75C7E" /></a>
+  <a href="https://github.com/gowthamurs07">
+    <img src="https://img.shields.io/badge/GitHub-0b0f14?style=for-the-badge&logo=github&logoColor=F75C7E" />
+  </a>
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=F75C7E" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-0b0f14?style=for-the-badge&logo=gmail&logoColor=F75C7E" />
+  </a>
 </p>
