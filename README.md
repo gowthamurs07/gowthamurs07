@@ -16,12 +16,11 @@
 </p>
 
 <!-- ===================== -->
-<!-- RETRO ARCADE GAME -->
+<!-- INFO PILLS -->
 <!-- ===================== -->
-## 🕹️ Retro Arcade
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/arcade.gif" width="420" />
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-0b0f14?style=flat&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-161b22?style=flat&logo=openai&logoColor=white" />
 </p>
 
 <!-- ===================== -->
@@ -32,12 +31,12 @@
 </p>
 
 <!-- ===================== -->
-<!-- PAC-MAN CONTRIBUTION GAME -->
+<!-- RETRO ARCADE GAME -->
 <!-- ===================== -->
-## 🟡 Pac-Man Game
+## 🕹️ Retro Arcade
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/omshankar/pacman-contribution-graph/main/pacman.svg" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/arcade.gif" width="420" />
 </p>
 
 <!-- ===================== -->
