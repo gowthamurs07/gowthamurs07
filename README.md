@@ -39,10 +39,3 @@
   <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=F75C7E" /></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-0b0f14?style=for-the-badge&logo=gmail&logoColor=F75C7E" /></a>
 </p>
-
-<!-- ===================== -->
-<!-- ANIMATED FOOTER -->
-<!-- ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=85&section=footer&text=Building%20Modern%20AI%20Systems%20With%20Style&fontSize=18&fontColor=F75C7E&color=0:161b22,100:0b0f14&animation=twinkling" />
-</p>
