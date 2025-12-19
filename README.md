@@ -29,16 +29,17 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gowthamurs07&label=Profile%20Views&color=161b22&style=flat" />
 </p>
+
 <!-- ===================== -->
-<!-- GAME -->
+<!-- ANIMATED CAR -->
 <!-- ===================== -->
-## 🎮 Mini Game
+## 🏎️ Moving Car
 
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif"
-    width="420"
-    alt="retro game animation"
+    src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" 
+    width="500" 
+    alt="animated car" 
   />
 </p>
 
