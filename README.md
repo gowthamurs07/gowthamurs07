@@ -1,20 +1,24 @@
 <!-- ===================== -->
-<!-- TRANSPARENT GLASS HEADER WITH INLINE GIF -->
+<!-- HEADER WITH NAME LEFT AND CAR RIGHT -->
 <!-- ===================== -->
-<p align="center">
-  <!-- Header Text -->
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&height=170&section=header&text=GOWTHAM%20URS&fontSize=36&fontColor=E6EDF3&fontAlignY=60&color=0:00000000,100:00000000&animation=fadeIn" 
-    style="vertical-align:middle;"
-  />
-  <!-- Animated Car GIF -->
-  <img 
-    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dpZWhsY3FjZWp4bzB4eWhhcmc0dW1jNjl3cm45OGJmdmx4ZnJvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" 
-    width="200" 
-    style="margin-left:15px; vertical-align:middle;" 
-    alt="animated car"
-  />
-</p>
+<div style="display:flex; align-items:center; justify-content:space-between; width:100%; max-width:1000px; margin-bottom:20px;">
+
+  <!-- Name on Left -->
+  <div style="font-family:Inter, sans-serif; font-size:36px; font-weight:600; color:#E6EDF3;">
+    GOWTHAM URS
+  </div>
+
+  <!-- Animated Car on Right -->
+  <div>
+    <img 
+      src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dpZWhsY3FjZWp4bzB4eWhhcmc0dW1jNjl3cm45OGJmdmx4ZnJvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" 
+      width="150" 
+      alt="animated car" 
+      style="display:block;"
+    />
+  </div>
+
+</div>
 
 <!-- SOFT TYPING ANIMATION -->
 <p align="center">
