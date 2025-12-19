@@ -31,12 +31,12 @@
 </p>
 
 <!-- ===================== -->
-<!-- RETRO ARCADE GAME -->
+<!-- RACING GAME -->
 <!-- ===================== -->
-## 🕹️ Retro Arcade
+## 🏎️ Racing Game
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/arcade.gif" width="420" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/animated-car.gif" width="520" />
 </p>
 
 <!-- ===================== -->
