@@ -33,9 +33,8 @@
 <!-- ===================== -->
 <!-- GIF -->
 <!-- ===================== -->
-## 
 
-<p align="Right">
+<p align="Left">
   <img 
     src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dpZWhsY3FjZWp4bzB4eWhhcmc0dW1jNjl3cm45OGJmdmx4ZnJvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" 
     width="500" 
