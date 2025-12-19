@@ -5,14 +5,15 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=190&section=header&text=GOWTHAM%20URS&fontSize=42&fontColor=ffffff&color=0:0b0f14,100:161b22&animation=fadeIn" />
 </p>
 
-<!-- SOFT TYPING ANIMATION -->
+<!-- ===================== -->
+<!-- CAR ANIMATION -->
+<!-- ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3500&pause=900&color=8b949e&center=true&vCenter=true&width=520&lines=AI+%2F+ML+Enthusiast;Full+Stack+Developer" />
-</p>
-
-<!-- WAVE DIVIDER -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656993-6c5f2a30-0f28-4d57-8eaa-7f8b58a47a95.gif" width="70%" />
+  <img 
+    src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/animated-car.gif"
+    width="80%"
+    alt="car animation"
+  />
 </p>
 
 <!-- ===================== -->
