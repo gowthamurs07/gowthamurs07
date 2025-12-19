@@ -1,19 +1,19 @@
 <!-- ===================== -->
-<!-- HEADER WITH NAME LEFT AND CAR RIGHT -->
+<!-- HEADER: NAME LEFT & CAR RIGHT -->
 <!-- ===================== -->
-<div style="display:flex; align-items:center; justify-content:space-between; width:100%; max-width:1000px; margin-bottom:20px;">
+<div style="display:flex; justify-content:space-between; align-items:flex-start; width:100%; max-width:1000px;">
 
-  <!-- Name on Left -->
+  <!-- Name on the Left -->
   <div style="font-family:Inter, sans-serif; font-size:36px; font-weight:600; color:#E6EDF3;">
     GOWTHAM URS
   </div>
 
-  <!-- Animated Car on Right -->
+  <!-- Car GIF on the Right -->
   <div>
     <img 
       src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dpZWhsY3FjZWp4bzB4eWhhcmc0dW1jNjl3cm45OGJmdmx4ZnJvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" 
       width="150" 
-      alt="animated car" 
+      alt="animated car"
       style="display:block;"
     />
   </div>
