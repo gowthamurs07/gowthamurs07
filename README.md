@@ -1,19 +1,19 @@
 <!-- ===================== -->
-<!-- HEADER: NAME LEFT & CAR RIGHT -->
+<!-- HEADER: NAME LEFT, GIF RIGHT -->
 <!-- ===================== -->
-<div style="display:flex; justify-content:space-between; align-items:flex-start; width:100%; max-width:1000px;">
+<div style="display:flex; justify-content:space-between; align-items:flex-start; width:100%; max-width:100%; margin-bottom:20px;">
 
-  <!-- Name on the Left -->
+  <!-- Name on Top-Left -->
   <div style="font-family:Inter, sans-serif; font-size:36px; font-weight:600; color:#E6EDF3;">
     GOWTHAM URS
   </div>
 
-  <!-- Car GIF on the Right -->
+  <!-- GIF on Top-Right -->
   <div>
     <img 
       src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dpZWhsY3FjZWp4bzB4eWhhcmc0dW1jNjl3cm45OGJmdmx4ZnJvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" 
-      width="150" 
-      alt="animated car"
+      width="120" 
+      alt="animated car" 
       style="display:block;"
     />
   </div>
@@ -30,24 +30,18 @@
   <img src="https://user-images.githubusercontent.com/74038190/216656993-6c5f2a30-0f28-4d57-8eaa-7f8b58a47a95.gif" width="70%" />
 </p>
 
-<!-- ===================== -->
 <!-- INFO PILLS -->
-<!-- ===================== -->
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-0b0f14?style=flat&logo=code&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-161b22?style=flat&logo=openai&logoColor=white" />
 </p>
 
-<!-- ===================== -->
 <!-- PROFILE VIEWS -->
-<!-- ===================== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gowthamurs07&label=Profile%20Views&color=161b22&style=flat" />
 </p>
 
-<!-- ===================== -->
 <!-- CONTACT & SOCIALS -->
-<!-- ===================== -->
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://github.com/gowthamurs07">
