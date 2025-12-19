@@ -23,6 +23,16 @@
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-161b22?style=flat&logo=openai&logoColor=white" />
 </p>
 
+<!-- SOFT TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3500&pause=900&color=8b949e&center=true&vCenter=true&width=520&lines=AI+%2F+ML+Enthusiast;Full+Stack+Developer" />
+</p>
+
+<!-- CAR ANIMATION -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/animated-car.gif" width="80%" />
+</p>
+
 <!-- ===================== -->
 <!-- PROFILE VIEWS -->
 <!-- ===================== -->
