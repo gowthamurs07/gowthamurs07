@@ -3,47 +3,41 @@
 <!-- ===================== -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=rect&height=180&section=header&text=GOWTHAM%20URS&fontSize=40&fontColor=E6EDF3&fontAlignY=55&color=0:0b0f14,50:1a1f26,100:0b0f14&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=rect&height=190&section=header&text=GOWTHAM%20URS&fontSize=42&fontColor=E6EDF3&fontAlignY=40&color=0:0b0f14,50:1a1f26,100:0b0f14&animation=fadeIn"
   />
 </p>
 
 <!-- ===================== -->
-<!-- SOFT APPLE TYPING -->
+<!-- iOS LOCK SCREEN TEXT -->
 <!-- ===================== -->
-<p align="center">
+<p align="center" style="margin-top:-10px;">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3200&pause=900&color=9da5b4&center=true&vCenter=true&width=540&lines=AI+%2F+ML+Enthusiast;Full+Stack+Developer;Building+Intelligent+Systems"
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=30&duration=6000&pause=2000&color=9da5b4&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Full+Stack+Developer"
   />
 </p>
 
+<p align="center" style="margin-top:-12px;">
+  <sub style="color:#8b949e;">
+    Designed like iOS Lock Screen • Dark Glass UI
+  </sub>
+</p>
+
 <!-- ===================== -->
-<!-- SUBTLE GLASS DIVIDER -->
+<!-- iOS GLASS DIVIDER -->
 <!-- ===================== -->
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png"
-    width="75%"
+    width="70%"
   />
 </p>
 
 <!-- ===================== -->
-<!-- MOVING CAR ANIMATION -->
+<!-- GLASS INFO BADGES -->
 <!-- ===================== -->
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/animated-car.gif"
-    width="85%"
-    alt="moving car"
-  />
-</p>
-
-<!-- ===================== -->
-<!-- INFO GLASS BADGES -->
-<!-- ===================== -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-0b0f14?style=for-the-badge&logo=code&logoColor=9da5b4" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-1a1f26?style=for-the-badge&logo=openai&logoColor=9da5b4" />
-  <img src="https://img.shields.io/badge/Theme-Apple%20Glass-0b0f14?style=for-the-badge&logo=apple&logoColor=9da5b4" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-0b0f14?style=for-the-badge&logo=openai&logoColor=9da5b4" />
+  <img src="https://img.shields.io/badge/Full%20Stack-1a1f26?style=for-the-badge&logo=vercel&logoColor=9da5b4" />
 </p>
 
 <!-- ===================== -->
@@ -56,10 +50,8 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Computer Science Graduate  
+- 🎓 Computer Science Student 
 - 🤖 AI / ML & Full Stack Developer  
-- 🧠 Working on **Smart ECG, AI Lawyer Bot, Medical AI Systems**  
-- 🌍 Passionate about building real-world AI  
 
 ---
 
