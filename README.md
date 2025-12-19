@@ -31,15 +31,15 @@
 </p>
 
 <!-- ===================== -->
-<!-- ANIMATED CAR -->
+<!-- GIF -->
 <!-- ===================== -->
-## 🏎️ Moving Car
+## 
 
-<p align="center">
+<p align="Right">
   <img 
-    src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" 
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dpZWhsY3FjZWp4bzB4eWhhcmc0dW1jNjl3cm45OGJmdmx4ZnJvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" 
     width="500" 
-    alt="animated car" 
+    alt="animated gif" 
   />
 </p>
 
